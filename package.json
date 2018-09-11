@@ -1,0 +1,51 @@
+{
+  "name": "@wmfs/tymly-rest-client-plugin",
+  "version": "0.0.0-semantically-released",
+  "description": "A REST API client for Tymly",
+  "homepage": "https://github.com/wmfs/tymly-rest-client-plugin#readme",
+  "author": "West Midlands Fire Service",
+  "keywords": [
+    "tymly",
+    "plugin",
+    "rest-client"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmfs/tymly-rest-client-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmfs/tymly-rest-client-plugin/issues"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "request-promise-native": "1.0.5"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "3.0.0",
+    "@semantic-release/git": "7.0.3",
+    "chai": "4.1.2",
+    "codecov": "3.1.0",
+    "conventional-changelog-metahub": "2.0.2",
+    "cz-conventional-changelog": "2.1.0",
+    "express": "^4.16.3",
+    "mocha": "5.2.0",
+    "nyc": "13.0.1",
+    "semantic-release": "15.9.14",
+    "standard": "12.0.1"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

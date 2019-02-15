@@ -19,7 +19,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "request-promise-native": "1.0.5"
+    "request-promise-native": "1.0.6"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.1",

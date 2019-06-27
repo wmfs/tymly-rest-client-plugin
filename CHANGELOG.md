@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.0.1...v1.1.0) (2019-06-27)
+
+
+### 🛠 Builds
+
+* **deps:** update request-promise-native requirement ([d0aa2d4](https://github.com/wmfs/tymly-rest-client-plugin/commit/d0aa2d4))
+
 ## [1.0.1](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.0.0...v1.0.1) (2019-03-18)
 
 

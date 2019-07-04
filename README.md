@@ -1,7 +1,7 @@
 # tymly-rest-client-plugin
 [![Tymly Plugin](https://img.shields.io/badge/tymly-plugin-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/tymly-rest-client-plugin.svg)](https://www.npmjs.com/package/@wmfs/tymly-rest-client-plugin)
-[![Build Status](https://travis-ci.com/wmfs/tymly-rest-client-plugin.svg?branch=master)](https://travis-ci.com/wmfs/tymly-rest-client-plugin)
+[![CircleCI](https://circleci.com/gh/wmfs/tymly-rest-client-plugin.svg?style=svg)](https://circleci.com/gh/wmfs/tymly-rest-client-plugin)
 [![codecov](https://codecov.io/gh/wmfs/tymly-rest-client-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/tymly-rest-client-plugin)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/tymly-rest-client-plugin/badge)](https://www.codefactor.io/repository/github/wmfs/tymly-rest-client-plugin)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)

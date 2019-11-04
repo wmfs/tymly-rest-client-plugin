@@ -1,3 +1,24 @@
+# [1.2.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.1.0...v1.2.0) (2019-11-04)
+
+
+### 🛠 Builds
+
+* **deps:** Add request dependency ([](https://github.com/wmfs/tymly-rest-client-plugin/commit/8cfe810))
+* **deps-dev:** update dev dependancies ([](https://github.com/wmfs/tymly-rest-client-plugin/commit/840ad58))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([](https://github.com/wmfs/tymly-rest-client-plugin/commit/86ab2ee))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([](https://github.com/wmfs/tymly-rest-client-plugin/commit/3cdc318))
+
+
+### 📚 Documentation
+
+* add circleci status [skip ci] ([](https://github.com/wmfs/tymly-rest-client-plugin/commit/9f51402))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Update CircleCI config - Travis migration ([](https://github.com/wmfs/tymly-rest-client-plugin/commit/8bb74cb))
+* **travis:** remove Travis config ([](https://github.com/wmfs/tymly-rest-client-plugin/commit/c2d74d7))
+
 # [1.1.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.0.1...v1.1.0) (2019-06-27)
 
 

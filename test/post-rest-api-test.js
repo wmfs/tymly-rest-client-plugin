@@ -1,8 +1,9 @@
 /* eslint-env mocha */
 
 const expect = require('chai').expect
+const bodyParser = require('body-parser')
 const express = require('express')
-const RestApiClient = require('./../lib/components/state-resources/get-data-from-rest-api')
+const RestApiClient = require('./../lib/components/state-resources/post-data-to-rest-api')
 
 const mockRegistry = {
   keys: {
@@ -17,17 +18,19 @@ const mockRegistry = {
   }
 }
 
-describe('Fetch REST endpoint', () => {
+describe('Post REST endpoint', () => {
   const app = express()
   let server
 
   before(() => {
-    app.get('/test-endpoint', (req, res) => res.send('HOORAY'))
-    app.get('/no-content', (req, res) => res.status(204).send())
-    app.get('/server-error', (req, res) => res.status(500).send('Borked'))
+    app.post('/test-endpoint', (req, res) => res.status(200).send('HOORAY'))
+    app.post('/no-content', (req, res) => res.status(204).send())
+    app.post('/server-error', (req, res) => res.status(500).send('ERROR'))
+    app.use(bodyParser.urlencoded({ extended: false }))
+    app.use(bodyParser.json())
     server = app.listen(
       3003,
-      () => { console.log('Listening ... ') }
+      () => console.log('Listening ... ')
     )
   })
 

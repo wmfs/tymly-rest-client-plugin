@@ -1,3 +1,29 @@
+# [1.3.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.2.0...v1.3.0) (2019-11-28)
+
+
+### ✨ Features
+
+* initial commit for post resource ([ce09ec4](https://github.com/wmfs/tymly-rest-client-plugin/commit/ce09ec4dc35640521d2ae571f3d72a9b804a7b65))
+* tests and impl for post resource ([745f4db](https://github.com/wmfs/tymly-rest-client-plugin/commit/745f4db202b4e494d3e293855feab3a70c1c8350))
+* timeout for post ([caec495](https://github.com/wmfs/tymly-rest-client-plugin/commit/caec4954e2c6c5105a480e060c48fb49de59b47f))
+
+
+### 🐛 Bug Fixes
+
+* axios config ([ab4ff6d](https://github.com/wmfs/tymly-rest-client-plugin/commit/ab4ff6de8d00d3ab3e06bb28ee35cd7e0e78c353))
+* data not body ([70d6558](https://github.com/wmfs/tymly-rest-client-plugin/commit/70d6558138ef68b68f178c0c4ef838edb8e3ec81))
+* standard :( ([bc92cd1](https://github.com/wmfs/tymly-rest-client-plugin/commit/bc92cd14e63e04328b86bfc9b90478be43470763))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump many dev dependencies ([2ceed90](https://github.com/wmfs/tymly-rest-client-plugin/commit/2ceed90966ceb92dbf5536307881dcb5a21e2fe1))
+
+
+### 📦 Code Refactoring
+
+* replace request w/ axios ([8c123c1](https://github.com/wmfs/tymly-rest-client-plugin/commit/8c123c1a0d1654ee475ee86433b5e63caf9e9677))
+
 # [1.2.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.1.0...v1.2.0) (2019-11-04)
 
 

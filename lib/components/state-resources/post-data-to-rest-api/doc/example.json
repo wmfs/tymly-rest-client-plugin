@@ -1,0 +1,7 @@
+{
+  "PostDataToRestApi": {
+    "Type": "Task",
+    "Resource": "module:postDataToRestApi",
+    "InputPath": "$.postDataToRestApi"
+  }
+}

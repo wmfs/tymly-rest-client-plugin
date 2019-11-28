@@ -55,7 +55,7 @@ describe('Fetch REST endpoint', () => {
         templateUrlRegistryKey: 'notfound'
       },
       failure: err => {
-        expect(err.statusCode).to.eql(404)
+        expect(err.message).to.eql('Request failed with status code 404')
       }
     },
     {
@@ -65,7 +65,7 @@ describe('Fetch REST endpoint', () => {
         templateUrlRegistryKey: 'servererror'
       },
       failure: err => {
-        expect(err.statusCode).to.eql(500)
+        expect(err.message).to.eql('Request failed with status code 500')
       }
     }
   ]

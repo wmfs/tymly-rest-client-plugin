@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.3.0...v1.3.1) (2019-12-11)
+
+
+### 🐛 Bug Fixes
+
+* remove log [ch107] ([d437915](https://github.com/wmfs/tymly-rest-client-plugin/commit/d437915a36d56c842191c1a88ccfb01de52c1f7e))
+
 # [1.3.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.2.0...v1.3.0) (2019-11-28)
 
 

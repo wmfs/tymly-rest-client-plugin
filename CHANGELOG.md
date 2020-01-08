@@ -1,3 +1,25 @@
+# [1.4.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.3.1...v1.4.0) (2020-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.19.0 to 0.19.1 ([3dfb2cb](https://github.com/wmfs/tymly-rest-client-plugin/commit/3dfb2cb4e5f3659a6f04d549d35142819bfde20e))
+* **deps-dev:** add [@semantic-release](https://github.com/semantic-release)/exec ([718ddba](https://github.com/wmfs/tymly-rest-client-plugin/commit/718ddbae49a8b3539a14de9210130f07668cf105))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([8535b47](https://github.com/wmfs/tymly-rest-client-plugin/commit/8535b47287ee3b7f789ac8ae96f4e7655e931c57))
+* **deps-dev:** bump packages ([6038ea0](https://github.com/wmfs/tymly-rest-client-plugin/commit/6038ea0a5fb475eebd948df2a08bf9245eb1ca4d))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update config ([516bad7](https://github.com/wmfs/tymly-rest-client-plugin/commit/516bad76a5117fa5613dce00af342e7cdd7c9d42))
+
+
+### ♻️ Chores
+
+* add plugin.json ([ef9a5ce](https://github.com/wmfs/tymly-rest-client-plugin/commit/ef9a5ced56544490aedae120f26af4635467e187))
+* add version_plugin script ([97ae0b4](https://github.com/wmfs/tymly-rest-client-plugin/commit/97ae0b4ec9ee96c09d28c2120dbb2f8d1efce41b))
+* update .releaserc.json ([47331c9](https://github.com/wmfs/tymly-rest-client-plugin/commit/47331c9cd3f0ca90824ff708db5383a9733b947c))
+
 ## [1.3.1](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.3.0...v1.3.1) (2019-12-11)
 
 

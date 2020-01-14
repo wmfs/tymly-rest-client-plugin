@@ -15,6 +15,10 @@ const mockRegistry = {
 
   get: function (key) {
     return this.keys[key]
+  },
+
+  has: function (key) {
+    return this.keys[key]
   }
 }
 

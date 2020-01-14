@@ -23,7 +23,7 @@ const mockRegistry = {
 }
 
 const mockStorage = {
-  'tymly_failedRestRequests': []
+  'tymly_failedRestRequests': {create: () => console.log('failed')}
 }
 
 describe('Post REST endpoint', () => {

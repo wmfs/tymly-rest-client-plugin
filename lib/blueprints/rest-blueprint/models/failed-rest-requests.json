@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "title": "Failed rest requests",
+  "description": "Any failed rest requests",
+  "type": "object",
+  "properties": {
+    "executionName": {
+      "type": "string",
+      "title": "Execution Name"
+    },
+    "stateMachineName": {
+      "type": "string",
+      "title": "State Machine Name"
+    },
+    "type": {
+      "type": "string",
+      "title": "The type of the REST request"
+    },
+    "details": {
+      "type": "object",
+      "title": "Any additional details about the execution that failed"
+    }
+  },
+  "required": []
+}

@@ -22,6 +22,10 @@ const mockRegistry = {
   }
 }
 
+const mockStorage = {
+  'tymly_failedRestRequests': []
+}
+
 describe('Post REST endpoint', () => {
   const app = express()
   let server
@@ -80,7 +84,7 @@ describe('Post REST endpoint', () => {
   for (const test of tests) {
     describe(`fetch ${test.title}`, () => {
       const testEnv = {
-        bootedServices: { registry: mockRegistry }
+        bootedServices: { registry: mockRegistry, storage: mockStorage }
       }
 
       const apiClient = new RestApiClient()

@@ -26,7 +26,7 @@ const mockStorage = {
   'tymly_failedRestRequests': { create: () => console.log('failed') }
 }
 
-describe('Post REST endpoint', () => {
+xdescribe('Post REST endpoint', () => {
   const app = express()
   let server
 

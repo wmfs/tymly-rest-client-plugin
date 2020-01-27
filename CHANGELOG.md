@@ -1,3 +1,16 @@
+# [1.6.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.5.0...v1.6.0) (2020-01-27)
+
+
+### ✨ Features
+
+* Reecebrend/ch107/s w teams notifications [ch107] ([#99](https://github.com/wmfs/tymly-rest-client-plugin/issues/99)) ([078d834](https://github.com/wmfs/tymly-rest-client-plugin/commit/078d8344adbac47eb0d287ce068f5ca177e0c02c))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([1e5967e](https://github.com/wmfs/tymly-rest-client-plugin/commit/1e5967e8690222e74241a2d356d3eb58d1ff92b4))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([ad73c19](https://github.com/wmfs/tymly-rest-client-plugin/commit/ad73c19f547387a605e266ca237fee8f65d9726e))
+
 # [1.5.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.4.0...v1.5.0) (2020-01-23)
 
 

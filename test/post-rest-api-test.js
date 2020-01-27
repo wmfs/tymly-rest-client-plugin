@@ -7,10 +7,10 @@ const RestApiClient = require('./../lib/components/state-resources/post-data-to-
 
 const mockRegistry = {
   keys: {
-    'test_url': 'http://localhost:3003/test-endpoint',
-    'test_nocontent': 'http://localhost:3003/no-content',
-    'test_notfound': 'http://localhost:3003/not-found',
-    'test_servererror': 'http://localhost:3003/server-error'
+    test_url: 'http://localhost:3003/test-endpoint',
+    test_nocontent: 'http://localhost:3003/no-content',
+    test_notfound: 'http://localhost:3003/not-found',
+    test_servererror: 'http://localhost:3003/server-error'
   },
 
   get: function (key) {

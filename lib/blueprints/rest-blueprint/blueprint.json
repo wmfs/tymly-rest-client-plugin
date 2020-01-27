@@ -1,0 +1,17 @@
+{
+  "namespace": "tymly",
+  "name": "rest-blueprint",
+  "version": "1.0.0",
+  "label": "",
+  "organisation": "West Midlands Fire Service",
+  "author": "WMFS",
+  "description": "Blueprint to hold failed post request model",
+  "categories": [],
+  "meta": {
+    "generatedOn": "14/01/2020, 11:56:42 AM",
+    "generatedWith": "@wmfs/tymly-scaffold 0.0.0-semantically-released",
+    "domains": [
+      "general"
+    ]
+  }
+}

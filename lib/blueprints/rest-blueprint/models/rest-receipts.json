@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "title": "rest receipts",
+  "description": "Table to record rest requests",
+  "type": "object",
+  "properties": {
+    "executionName": {
+      "type": "string",
+      "title": "Execution Name"
+    },
+    "type": {
+      "type": "string",
+      "title": "The type of the REST request"
+    },
+    "responseCode": {
+      "type": "string",
+      "title": "Response code from server"
+    },
+    "details": {
+      "type": "object",
+      "title": "Any additional details about the execution"
+    }
+  },
+  "required": []
+}

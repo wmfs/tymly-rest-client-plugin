@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.4.0...v1.5.0) (2020-01-23)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.19.1 to 0.19.2 ([043402c](https://github.com/wmfs/tymly-rest-client-plugin/commit/043402c36558957d3d08aa553a9f7f8c1416ed71))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([4f1c239](https://github.com/wmfs/tymly-rest-client-plugin/commit/4f1c239fb371fdb08ccdab6027318027dd9e71a5))
+
 # [1.4.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.3.1...v1.4.0) (2020-01-08)
 
 

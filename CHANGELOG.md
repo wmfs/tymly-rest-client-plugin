@@ -1,3 +1,36 @@
+## [1.6.1](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.6.0...v1.6.1) (2020-03-04)
+
+
+### 🐛 Bug Fixes
+
+* bump ([2969396](https://github.com/wmfs/tymly-rest-client-plugin/commit/29693968a4359f49a0f46bc0fbc58fc0b7d5639b))
+* dont overwrite the variable you stupid ([5007e8e](https://github.com/wmfs/tymly-rest-client-plugin/commit/5007e8e6358b257a085714b1546499208b310e09))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([809d408](https://github.com/wmfs/tymly-rest-client-plugin/commit/809d408c3f95bf4ff94addcf80ebe3b463ba2536))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([372898a](https://github.com/wmfs/tymly-rest-client-plugin/commit/372898afc93e35a8fc7860b44da3594ef178486d))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([8a52f7e](https://github.com/wmfs/tymly-rest-client-plugin/commit/8a52f7ec41c9e9afa7fcd62656289713198e8966))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([08daba1](https://github.com/wmfs/tymly-rest-client-plugin/commit/08daba1642e8bfaa2a7cd54920e763949b1ad661))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([60b1bbb](https://github.com/wmfs/tymly-rest-client-plugin/commit/60b1bbba1d011137f4751de9e0ba45d4b1e3f06d))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([319e1c5](https://github.com/wmfs/tymly-rest-client-plugin/commit/319e1c52a47031e5299101e82b034ee4219fb5d6))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([7f98b89](https://github.com/wmfs/tymly-rest-client-plugin/commit/7f98b89a2d51d2393e5ded5db6b4b63cab195080))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([abc3226](https://github.com/wmfs/tymly-rest-client-plugin/commit/abc3226c804ccffeff9691ba1045f7f6b77d1a63))
+* **deps-dev:** try updating semantic-release to 16.0.0 ([2cc807b](https://github.com/wmfs/tymly-rest-client-plugin/commit/2cc807b7247f4e183316c44752b36e8b08d0613a))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([fbd3d56](https://github.com/wmfs/tymly-rest-client-plugin/commit/fbd3d56d00ff4f02897216779b4db2acaa2c060e))
+
+
+### ♻️ Chores
+
+* **version:** plugin 1.6.1 [skip ci] ([a8b1278](https://github.com/wmfs/tymly-rest-client-plugin/commit/a8b12787ca536d0bee82a7c4345c91161c84bd2d))
+
+
+### 💎 Styles
+
+* standard --fix ([a94b97c](https://github.com/wmfs/tymly-rest-client-plugin/commit/a94b97c56eb15862e46e302e083d0d7037a9037a))
+* standard --fix ([d95bab3](https://github.com/wmfs/tymly-rest-client-plugin/commit/d95bab366b5956b0fa45de3ab2d6dd50d04ad6c3))
+
 # [1.6.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.5.0...v1.6.0) (2020-01-27)
 
 

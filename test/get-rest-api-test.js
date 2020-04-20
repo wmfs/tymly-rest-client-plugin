@@ -78,12 +78,8 @@ describe('Fetch REST endpoint', () => {
 
       const apiClient = new RestApiClient()
 
-      it('boot apiClient', (done) => {
-        apiClient.init(
-          test.config,
-          testEnv,
-          done
-        )
+      it('boot apiClient', () => {
+        apiClient.init(test.config, testEnv)
       })
 
       it('call api', (done) => {

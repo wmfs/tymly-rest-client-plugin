@@ -1,3 +1,33 @@
+## [1.6.2](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.6.1...v1.6.2) (2020-04-20)
+
+
+### 🐛 Bug Fixes
+
+* **state-resource:** Remove callback parameter from init method ([5a970bb](https://github.com/wmfs/tymly-rest-client-plugin/commit/5a970bb7261a10b397fbe1ec104b68331a49cbef))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([5dfd5ff](https://github.com/wmfs/tymly-rest-client-plugin/commit/5dfd5ffe4711471dbec298afaafaeb56851b220f))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/exec from 3.3.8 to 5.0.0 ([bdec0a2](https://github.com/wmfs/tymly-rest-client-plugin/commit/bdec0a23f6b8ce4fdbc346599b5201d10501a6fc))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([1855c38](https://github.com/wmfs/tymly-rest-client-plugin/commit/1855c3870a0ea533c46e4d2e8497c65bf92e17a7))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([716dab2](https://github.com/wmfs/tymly-rest-client-plugin/commit/716dab25bf07eebc93b8fd2b2e29d86f462d8514))
+* **deps-dev:** bump semantic-release from 16.0.0 to 17.0.4 ([670ba92](https://github.com/wmfs/tymly-rest-client-plugin/commit/670ba92b05348e80d588381ffa9a26900ecafe1b))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([86c4253](https://github.com/wmfs/tymly-rest-client-plugin/commit/86c425348eea914fdc8bafffdc43adc214d98ac8))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([3eee081](https://github.com/wmfs/tymly-rest-client-plugin/commit/3eee08106f8b82b044906603ec9a3feb715f695d))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([cc2c79f](https://github.com/wmfs/tymly-rest-client-plugin/commit/cc2c79f7be8b03e2f6eb7988416c400b7e022118))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([5d50db4](https://github.com/wmfs/tymly-rest-client-plugin/commit/5d50db4c9157101f326bc2cedf80ead2aec018ae))
+
+
+### 🚨 Tests
+
+* **state-resource:** Correct tests now state-resources don't take callback ([9a079be](https://github.com/wmfs/tymly-rest-client-plugin/commit/9a079be0c20f7af4dadb4f1153d019794d14373a))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([363f33d](https://github.com/wmfs/tymly-rest-client-plugin/commit/363f33dfec4cd9173f8975fdc2669a1f76e78b20))
+
 ## [1.6.1](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.6.0...v1.6.1) (2020-03-04)
 
 

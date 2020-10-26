@@ -1,3 +1,32 @@
+# [1.8.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.7.0...v1.8.0) (2020-10-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.20.0 to 0.21.0 ([bbe42f7](https://github.com/wmfs/tymly-rest-client-plugin/commit/bbe42f7fa3f17d8887ff2ddc07eec8197f9a79bb))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([ffaf0c4](https://github.com/wmfs/tymly-rest-client-plugin/commit/ffaf0c4dec0c2edda178786e5a1edf39cd1e7420))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([349d61f](https://github.com/wmfs/tymly-rest-client-plugin/commit/349d61f9961569e5845a3f534059a44276f37c01))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([1dafb25](https://github.com/wmfs/tymly-rest-client-plugin/commit/1dafb25086d883e43a5b45b6fff37834839b6d0a))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([8372324](https://github.com/wmfs/tymly-rest-client-plugin/commit/8372324e3b30cfb64be333aaa1dcc1d52321ab80))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([f213cce](https://github.com/wmfs/tymly-rest-client-plugin/commit/f213ccecb0adf7814b49c1c501c5984fbe3d476e))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([7487fca](https://github.com/wmfs/tymly-rest-client-plugin/commit/7487fca55b9458999b30148fae077c780d70d001))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([12d52e7](https://github.com/wmfs/tymly-rest-client-plugin/commit/12d52e72dcded824c0f468af0b06be9c6e810181))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([8ab9742](https://github.com/wmfs/tymly-rest-client-plugin/commit/8ab97426c04d31c6645892afd1e007583fe9de94))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([a0548e5](https://github.com/wmfs/tymly-rest-client-plugin/commit/a0548e5ed673e7fcbb0d1b47148e1b14749f2f22))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([63d3fe3](https://github.com/wmfs/tymly-rest-client-plugin/commit/63d3fe3c7f20ce435faff90aac25e3e82e884263))
+
+
+### 📦 Code Refactoring
+
+* remove standard from npm test script [skip ci] ([f301869](https://github.com/wmfs/tymly-rest-client-plugin/commit/f30186956cf8deb6b4f7a5e40f6a8b1a06d49ff5))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([55fb050](https://github.com/wmfs/tymly-rest-client-plugin/commit/55fb050c2b3f79bcfdf4b06e4466c3a4ce66fc2b))
+* **circle:** cache dependencies [ch2770] ([0b1f453](https://github.com/wmfs/tymly-rest-client-plugin/commit/0b1f453d7d79828e3de6c3f3b750bf61aa426c4a))
+* **circle:** separate lint job [ch1009] ([46c6d1a](https://github.com/wmfs/tymly-rest-client-plugin/commit/46c6d1a3f47d3e696a3a8d844c1d85d1655a96dd))
+
 # [1.7.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.6.2...v1.7.0) (2020-08-24)
 
 

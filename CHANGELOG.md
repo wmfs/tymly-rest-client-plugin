@@ -1,3 +1,23 @@
+# [1.9.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.8.0...v1.9.0) (2021-01-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.21.0 to 0.21.1 ([bc2f188](https://github.com/wmfs/tymly-rest-client-plugin/commit/bc2f188cfddea20ede919a93386177ab803b8dab))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([40ab93c](https://github.com/wmfs/tymly-rest-client-plugin/commit/40ab93c1accde50452a4918adc615ed60ad691be))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([ff41edd](https://github.com/wmfs/tymly-rest-client-plugin/commit/ff41edd79273fe5d655bd7d85df15092b4534aab))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([717dbe4](https://github.com/wmfs/tymly-rest-client-plugin/commit/717dbe4cc6e4105e7e215af6b13a2ceeec413e8e))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([cfd6db4](https://github.com/wmfs/tymly-rest-client-plugin/commit/cfd6db42efc6f9801e4f770938897170eb99582f))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([83d3c49](https://github.com/wmfs/tymly-rest-client-plugin/commit/83d3c49763c73b385f08734a3250e82f9cf7c08e))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([9707655](https://github.com/wmfs/tymly-rest-client-plugin/commit/97076551e59b9a7ffe0802fa1a9955e48c725df1))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([c5446a4](https://github.com/wmfs/tymly-rest-client-plugin/commit/c5446a48f5e1c88ea9a022930c635d72b21f1ced))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([03524f6](https://github.com/wmfs/tymly-rest-client-plugin/commit/03524f68da08cacc2afe5899f015647e388c581a))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update build environment variable context name [ch2771] ([2c86de4](https://github.com/wmfs/tymly-rest-client-plugin/commit/2c86de4f58c750bac4817cfd1f15b7e2f6da4d43))
+
 # [1.8.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.7.0...v1.8.0) (2020-10-26)
 
 

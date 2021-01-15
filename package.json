@@ -21,7 +21,7 @@
   "dependencies": {
     "lodash.isobject": "3.0.2",
     "lodash.isstring": "4.0.1",
-    "jsonpath": "1.0.2",
+    "jsonpath": "1.1.0",
     "axios": "0.21.1"
   },
   "devDependencies": {

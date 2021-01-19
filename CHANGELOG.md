@@ -1,3 +1,18 @@
+# [1.10.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.9.0...v1.10.0) (2021-01-19)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsonpath from 1.0.2 to 1.1.0 ([eef58ef](https://github.com/wmfs/tymly-rest-client-plugin/commit/eef58ef55d4fc3d873f43fe1ae38f67173844491))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([048613e](https://github.com/wmfs/tymly-rest-client-plugin/commit/048613ee5c8f092d764ec4ca227a8ae6b23d4592))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([545fca5](https://github.com/wmfs/tymly-rest-client-plugin/commit/545fca51325d203cc2682a0d21e2a2aeea046de8))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.3 ([5912a82](https://github.com/wmfs/tymly-rest-client-plugin/commit/5912a823c74c9635622896e3d6e645324211c41a))
+
+
+### 📦 Code Refactoring
+
+* standard linting ([303d97c](https://github.com/wmfs/tymly-rest-client-plugin/commit/303d97c02c3bf245aeb5a77b5b3e665adda21c8a))
+
 # [1.9.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.8.0...v1.9.0) (2021-01-05)
 
 

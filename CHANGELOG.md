@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.11.0...v1.12.0) (2021-05-10)
+
+
+### 🛠 Builds
+
+* **deps:** use master branch for wmfs/jsonpath [ch6167] ([c73bdb8](https://github.com/wmfs/tymly-rest-client-plugin/commit/c73bdb8bcd1219fe84b015b58b9641b2d5902e7c))
+
 # [1.11.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.10.0...v1.11.0) (2021-05-10)
 
 

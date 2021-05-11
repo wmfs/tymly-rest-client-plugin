@@ -21,7 +21,7 @@
   "dependencies": {
     "lodash.isobject": "3.0.2",
     "lodash.isstring": "4.0.1",
-    "jsonpath": "wmfs/jsonpath#master",
+    "jsonpath": "1.1.1",
     "axios": "0.21.1"
   },
   "devDependencies": {

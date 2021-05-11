@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.12.0...v1.13.0) (2021-05-11)
+
+
+### 🛠 Builds
+
+* **deps:** revert jsonpath to 1.1.1 [ch6167] ([46f03ed](https://github.com/wmfs/tymly-rest-client-plugin/commit/46f03ed302322570008caabefa85bfc77e4467f8))
+
 # [1.12.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.11.0...v1.12.0) (2021-05-10)
 
 

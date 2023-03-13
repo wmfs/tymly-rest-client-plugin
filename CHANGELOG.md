@@ -1,3 +1,12 @@
+# [1.18.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.17.0...v1.18.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency body-parser to v1.20.2 ([31ce3c1](https://github.com/wmfs/tymly-rest-client-plugin/commit/31ce3c156010dbf11285823201812003747b2af8))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([ac6958f](https://github.com/wmfs/tymly-rest-client-plugin/commit/ac6958fb231f0e5a75b30b6118c7435fe5d063dd))
+* **deps:** update dependency axios to v1.3.4 ([b085147](https://github.com/wmfs/tymly-rest-client-plugin/commit/b085147658bde70b15a5546c9c57c9a78e2853dc))
+
 # [1.17.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.16.0...v1.17.0) (2023-02-17)
 
 

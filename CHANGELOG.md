@@ -1,3 +1,17 @@
+# [1.19.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.18.0...v1.19.0) (2023-06-07)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([ab107b7](https://github.com/wmfs/tymly-rest-client-plugin/commit/ab107b7a5512954d3eab40b61d3ce230212e0d64))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([785b00f](https://github.com/wmfs/tymly-rest-client-plugin/commit/785b00fcc7519b7bbd7c5022bd12f706523ebe05))
+* **deps-dev:** update dependency semantic-release to v21 ([4aff4df](https://github.com/wmfs/tymly-rest-client-plugin/commit/4aff4dfaf4c685e5ba259671c0fe8543689ea30d))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([a313868](https://github.com/wmfs/tymly-rest-client-plugin/commit/a313868708c0efb8fe1c65d08faa873ad00b7eab))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([4580864](https://github.com/wmfs/tymly-rest-client-plugin/commit/45808643eac5e88734a1b8fc1f9e7c856b306228))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([78c1a69](https://github.com/wmfs/tymly-rest-client-plugin/commit/78c1a69fef05e873c144619392dbf5c6e5b9b634))
+* **deps-dev:** update dependency standard to v17.1.0 ([edb95b9](https://github.com/wmfs/tymly-rest-client-plugin/commit/edb95b95411437317bbcef9e421154b8fe0bff79))
+* **deps:** update dependency axios to v1.4.0 ([881647d](https://github.com/wmfs/tymly-rest-client-plugin/commit/881647d6792d01ee4baaafa1654a705a82093df5))
+
 # [1.18.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.17.0...v1.18.0) (2023-03-13)
 
 

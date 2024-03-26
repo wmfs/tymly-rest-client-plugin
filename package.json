@@ -34,7 +34,7 @@
     "cz-conventional-changelog": "3.3.0",
     "express": "4.19.2",
     "body-parser": "1.20.2",
-    "mocha": "10.3.0",
+    "mocha": "10.4.0",
     "nyc": "15.1.0",
     "semantic-release": "23.0.6",
     "standard": "17.1.0"

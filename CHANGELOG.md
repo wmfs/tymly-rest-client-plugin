@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.21.0...v1.22.0) (2024-10-10)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-27550] Teams channel for Birmingham update for Fault notifications [#309](https://github.com/wmfs/tymly-rest-client-plugin/issues/309) ([6bba519](https://github.com/wmfs/tymly-rest-client-plugin/commit/6bba519f5aca6ab2f917cc4168e0d93977f429a3))
+
 # [1.21.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.20.0...v1.21.0) (2024-07-02)
 
 # [1.20.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.19.0...v1.20.0) (2023-09-19)

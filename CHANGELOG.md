@@ -1,3 +1,10 @@
+## [1.23.1](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.23.0...v1.23.1) (2024-10-16)
+
+
+### Bug Fixes
+
+* update logs for debugging ([1538418](https://github.com/wmfs/tymly-rest-client-plugin/commit/15384189c144b763703c062a6ab3cb84e33341a3))
+
 # [1.23.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.22.0...v1.23.0) (2024-10-16)
 
 

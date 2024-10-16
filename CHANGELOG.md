@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.22.0...v1.23.0) (2024-10-16)
+
+
+### Features
+
+* temporarily add logs to the PostDataToRestApi state resource ([e174315](https://github.com/wmfs/tymly-rest-client-plugin/commit/e174315aaabf4faab70467223823ecc9cce4aa3a))
+
 # [1.22.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.21.0...v1.22.0) (2024-10-10)
 
 

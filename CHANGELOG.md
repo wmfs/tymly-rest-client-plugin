@@ -1,3 +1,5 @@
+# [1.26.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.25.0...v1.26.0) (2024-11-26)
+
 # [1.25.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.24.0...v1.25.0) (2024-11-04)
 
 # [1.24.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.23.2...v1.24.0) (2024-11-04)

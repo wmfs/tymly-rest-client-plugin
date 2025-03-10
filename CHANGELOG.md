@@ -1,3 +1,9 @@
+## [1.29.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.28.0...v1.29.0) (2025-03-10)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency axios to v1.8.2 ([#330](https://github.com/wmfs/tymly-rest-client-plugin/issues/330)) ([7e5abd9](https://github.com/wmfs/tymly-rest-client-plugin/commit/7e5abd93a093b773cd0ed4d7838d8e4912811bab))
+
 ## [1.28.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.27.0...v1.28.0) (2025-02-28)
 
 ### Build system dependencies :hammer:

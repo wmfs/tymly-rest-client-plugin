@@ -1,3 +1,18 @@
+## [1.33.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.32.0...v1.33.0) (2025-06-16)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/exec to v7.1.0 ([#337](https://github.com/wmfs/tymly-rest-client-plugin/issues/337)) ([7c054d8](https://github.com/wmfs/tymly-rest-client-plugin/commit/7c054d8c580da3515438118425481770a88a268e))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#341](https://github.com/wmfs/tymly-rest-client-plugin/issues/341)) ([b2baa09](https://github.com/wmfs/tymly-rest-client-plugin/commit/b2baa09a5a15e1ead1cf8f947f6b9482101cb4df))
+* **deps-dev:** update dependency mocha to v11.2.2 ([#336](https://github.com/wmfs/tymly-rest-client-plugin/issues/336)) ([779daa0](https://github.com/wmfs/tymly-rest-client-plugin/commit/779daa0586a0acd7f2cec4a0dfc110e51ce347d7))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#338](https://github.com/wmfs/tymly-rest-client-plugin/issues/338)) ([bb32b5c](https://github.com/wmfs/tymly-rest-client-plugin/commit/bb32b5c283f80db6c8ca447af427116fdb5160de))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#340](https://github.com/wmfs/tymly-rest-client-plugin/issues/340)) ([9c66c14](https://github.com/wmfs/tymly-rest-client-plugin/commit/9c66c1405b9917563e61b0741f3014667c7f3f4e))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#343](https://github.com/wmfs/tymly-rest-client-plugin/issues/343)) ([c822169](https://github.com/wmfs/tymly-rest-client-plugin/commit/c822169ba6d3e1e989b62d296cefd5fd40cb8e11))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#344](https://github.com/wmfs/tymly-rest-client-plugin/issues/344)) ([ee8f974](https://github.com/wmfs/tymly-rest-client-plugin/commit/ee8f97483aa464805a1a3f58ab146ec88e1864ad))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#339](https://github.com/wmfs/tymly-rest-client-plugin/issues/339)) ([b45b008](https://github.com/wmfs/tymly-rest-client-plugin/commit/b45b008fed1e341c467ce820297252202f119355))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#342](https://github.com/wmfs/tymly-rest-client-plugin/issues/342)) ([fa96f0b](https://github.com/wmfs/tymly-rest-client-plugin/commit/fa96f0bf21a0f8abd8ea41b92b3f3d3d02c1f938))
+* **deps:** update dependency axios to v1.10.0 ([#345](https://github.com/wmfs/tymly-rest-client-plugin/issues/345)) ([049ed80](https://github.com/wmfs/tymly-rest-client-plugin/commit/049ed801f57d83ea9d95815f5afd1e96280686ca))
+
 ## [1.32.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.31.0...v1.32.0) (2025-04-25)
 
 ### Build system dependencies :hammer:

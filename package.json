@@ -22,7 +22,7 @@
     "lodash.isobject": "3.0.2",
     "lodash.isstring": "4.0.1",
     "jsonpath": "1.1.1",
-    "axios": "1.9.0"
+    "axios": "1.10.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",

@@ -1,3 +1,19 @@
+## [1.35.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.34.0...v1.35.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#353](https://github.com/wmfs/tymly-rest-client-plugin/issues/353)) ([ea45714](https://github.com/wmfs/tymly-rest-client-plugin/commit/ea457140de6a88fa9ea8026b1d11f734b46b5bf2))
+* **deps-dev:** update dependency chai to v6 ([#351](https://github.com/wmfs/tymly-rest-client-plugin/issues/351)) ([bc1c9c4](https://github.com/wmfs/tymly-rest-client-plugin/commit/bc1c9c4f880e73b3c98289347fee768161564c64))
+* **deps-dev:** update dependency chai to v6.2.0 ([#359](https://github.com/wmfs/tymly-rest-client-plugin/issues/359)) ([d50beeb](https://github.com/wmfs/tymly-rest-client-plugin/commit/d50beeb527a723b1b5f18560358391375857e0f5))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#352](https://github.com/wmfs/tymly-rest-client-plugin/issues/352)) ([7c78930](https://github.com/wmfs/tymly-rest-client-plugin/commit/7c7893050431440ddee9e81338399a9debfbb81b))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#361](https://github.com/wmfs/tymly-rest-client-plugin/issues/361)) ([8cf67db](https://github.com/wmfs/tymly-rest-client-plugin/commit/8cf67db37ecc1bebf26dbb395b1213ad3ed3e6f0))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#362](https://github.com/wmfs/tymly-rest-client-plugin/issues/362)) ([e7377bc](https://github.com/wmfs/tymly-rest-client-plugin/commit/e7377bc3c0bc61983880979a924e7a1f4a15680e))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#354](https://github.com/wmfs/tymly-rest-client-plugin/issues/354)) ([9e62b62](https://github.com/wmfs/tymly-rest-client-plugin/commit/9e62b62779f35c0e25f47d7b585e0821b0f2069a))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#358](https://github.com/wmfs/tymly-rest-client-plugin/issues/358)) ([0f623a8](https://github.com/wmfs/tymly-rest-client-plugin/commit/0f623a8f13391d4a44053f6dc2325e6e8384aeac))
+* **deps-dev:** update dependency semantic-release to v25 ([#363](https://github.com/wmfs/tymly-rest-client-plugin/issues/363)) ([d3b6351](https://github.com/wmfs/tymly-rest-client-plugin/commit/d3b6351e10ead8fa4d968dd3812e5e99751f8ce8))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#364](https://github.com/wmfs/tymly-rest-client-plugin/issues/364)) ([c140d29](https://github.com/wmfs/tymly-rest-client-plugin/commit/c140d29bdebee040c7153f671caa259b8bddb879))
+* **deps:** revert chai to non-esm ([ec441dc](https://github.com/wmfs/tymly-rest-client-plugin/commit/ec441dc34c23c8a8f45105359a932460b4b4eb39))
+
 ## [1.34.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.33.0...v1.34.0) (2025-07-23)
 
 ### Build system dependencies :hammer:

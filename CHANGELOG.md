@@ -1,3 +1,19 @@
+## [1.36.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.35.0...v1.36.0) (2026-02-02)
+
+### New Feature(s) :rocket:
+
+* refactor lodash requires [sc-32536] ([#374](https://github.com/wmfs/tymly-rest-client-plugin/issues/374)) ([61fc6bc](https://github.com/wmfs/tymly-rest-client-plugin/commit/61fc6bcac9bc6c98aea27f0460449c7128382151))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency body-parser to v2.2.1 ([#368](https://github.com/wmfs/tymly-rest-client-plugin/issues/368)) ([b3a6f83](https://github.com/wmfs/tymly-rest-client-plugin/commit/b3a6f836374c3170d225ecd2b9bb7bdb37a4b3a3))
+* **deps-dev:** update dependency body-parser to v2.2.2 ([#372](https://github.com/wmfs/tymly-rest-client-plugin/issues/372)) ([8a58bc7](https://github.com/wmfs/tymly-rest-client-plugin/commit/8a58bc7a914fc44af695bca0e9e8d3288614f7a1))
+* **deps-dev:** update dependency express to v5.2.0 [security] ([#371](https://github.com/wmfs/tymly-rest-client-plugin/issues/371)) ([5564b79](https://github.com/wmfs/tymly-rest-client-plugin/commit/5564b79854a248056053532d1ac8172f54769406))
+* **deps-dev:** update dependency express to v5.2.1 ([#369](https://github.com/wmfs/tymly-rest-client-plugin/issues/369)) ([8937a2e](https://github.com/wmfs/tymly-rest-client-plugin/commit/8937a2e9caf922217472d209324cf6ed0253dd59))
+* **deps-dev:** update dependency mocha to v11.7.5 ([#366](https://github.com/wmfs/tymly-rest-client-plugin/issues/366)) ([eb6beed](https://github.com/wmfs/tymly-rest-client-plugin/commit/eb6beed0dffeff316a2794659a5c4a4a1920b7be))
+* **deps-dev:** update dependency semantic-release to v25.0.2 ([#367](https://github.com/wmfs/tymly-rest-client-plugin/issues/367)) ([2dd2c7d](https://github.com/wmfs/tymly-rest-client-plugin/commit/2dd2c7d6965611e4ccc3206d088ec4c38c874451))
+* **deps-dev:** update dependency semantic-release to v25.0.3 ([#373](https://github.com/wmfs/tymly-rest-client-plugin/issues/373)) ([d8c9a0f](https://github.com/wmfs/tymly-rest-client-plugin/commit/d8c9a0f4d168d982ae03e4a55d002994aec28b68))
+
 ## [1.35.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.34.0...v1.35.0) (2025-10-21)
 
 ### Build system dependencies :hammer:

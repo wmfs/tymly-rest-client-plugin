@@ -1,3 +1,13 @@
+## [1.37.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.36.0...v1.37.0) (2026-04-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.2.0 ([#381](https://github.com/wmfs/tymly-rest-client-plugin/issues/381)) ([83655bd](https://github.com/wmfs/tymly-rest-client-plugin/commit/83655bddfb5077eb51412b6b59943cb423aebe5c))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.3.0 ([#382](https://github.com/wmfs/tymly-rest-client-plugin/issues/382)) ([7427420](https://github.com/wmfs/tymly-rest-client-plugin/commit/74274206669bf48c5f18a148834fa093113b08f4))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.3.1 ([#385](https://github.com/wmfs/tymly-rest-client-plugin/issues/385)) ([09fc466](https://github.com/wmfs/tymly-rest-client-plugin/commit/09fc4667cd2ba5fa1fdff5c6db9ec80cbcaae045))
+* **deps-dev:** update dependency nyc to v18 ([#380](https://github.com/wmfs/tymly-rest-client-plugin/issues/380)) ([fa04a22](https://github.com/wmfs/tymly-rest-client-plugin/commit/fa04a221a3a4505a64375584b24556149b223489))
+* **deps:** bump axios ([1d2fadd](https://github.com/wmfs/tymly-rest-client-plugin/commit/1d2fadda021cb21330176749b12f778e5505736d))
+
 ## [1.36.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.35.0...v1.36.0) (2026-02-02)
 
 ### New Feature(s) :rocket:

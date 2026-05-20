@@ -1,3 +1,13 @@
+## [1.38.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.37.0...v1.38.0) (2026-05-20)
+
+### New Feature(s) :rocket:
+
+* [sc-32975] added connection timout to post-data-to-rest-api ([#387](https://github.com/wmfs/tymly-rest-client-plugin/issues/387)) ([baa9fab](https://github.com/wmfs/tymly-rest-client-plugin/commit/baa9fabe18c1b50d2865fd966a2171294a5df7a0))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.1 ([#389](https://github.com/wmfs/tymly-rest-client-plugin/issues/389)) ([a837c53](https://github.com/wmfs/tymly-rest-client-plugin/commit/a837c53770a1ee0d940815dc1d3311857af29e3c))
+
 ## [1.37.0](https://github.com/wmfs/tymly-rest-client-plugin/compare/v1.36.0...v1.37.0) (2026-04-10)
 
 ### Build system dependencies :hammer:
